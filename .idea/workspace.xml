@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4624ed77-0fbf-46c5-bc05-b7b49429d14d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRVu7sgwQoj04AMe6BCtLvbhjx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="interfaceClasses" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="ArraysDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArraysDemo" />
+      <module name="first-java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumDemo.Demo" />
+      <module name="first-java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.IoDemo" />
+      <module name="first-java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListDemo" />
+      <module name="first-java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringDemo" />
+      <module name="first-java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.IoDemo" />
+        <item itemvalue="Application.StringDemo" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.ArraysDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4624ed77-0fbf-46c5-bc05-b7b49429d14d" name="Default Changelist" comment="" />
+      <created>1584802112351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584802112351</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1584895697000">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1584895697000" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1585443870107">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585443870107" />
+    <state x="321" y="271" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584895683020">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="271" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1584895683020" />
+    <state x="443" y="211" width="394" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585224728708">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="211" width="394" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1585224728708" />
+    <state x="443" y="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584895691209">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.680@0.0.1280.680" timestamp="1584895691209" />
+    <state x="260" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585491932836">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="260" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1585491932836" />
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585447994179">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1585447994179" />
+    <state width="1281" height="175" key="GridCell.Tab.0.bottom" timestamp="1585791499843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="175" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585791499843" />
+    <state width="1281" height="175" key="GridCell.Tab.0.center" timestamp="1585791499843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="175" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585791499843" />
+    <state width="1281" height="175" key="GridCell.Tab.0.left" timestamp="1585791499843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="175" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585791499843" />
+    <state width="1281" height="175" key="GridCell.Tab.0.right" timestamp="1585791499843">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="175" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585791499843" />
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom" timestamp="1585137662081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585137662081" />
+    <state width="1281" height="213" key="GridCell.Tab.1.center" timestamp="1585137662081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585137662081" />
+    <state width="1281" height="213" key="GridCell.Tab.1.left" timestamp="1585137662081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585137662081" />
+    <state width="1281" height="213" key="GridCell.Tab.1.right" timestamp="1585137662081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="213" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585137662081" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1585224661953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585224661953" />
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585227329459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="350" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1585227329459" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1585621715342">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1585621715342" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1585657130692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585657130692" />
+  </component>
+</project>
